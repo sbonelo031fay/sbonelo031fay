@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sibonelo Faye
 
 🎓 Final Year IT Student at Mangosuthu University of Technology  
-🧠 Visual learner | 💻 Developer | 🌍 Problem-solver through tech  
+💻 Developer | 🌍 Problem-solver through tech  
 🚀 Passionate about building real-world solutions with code
 
 ---
@@ -20,7 +20,7 @@
 🃏 **CardClash**  
 A Java-based card battle game using Object-Oriented Programming concepts.
 
-🧾 **(BestBrightness POS)[https://github.com/sbonelo031fay/BestBrightnessApp]**  
+🧾 **[BestBrightness POS]:[https://github.com/sbonelo031fay/BestBrightnessApp]**  
 A simple Point of Sale system developed with **C#** and **ASP.Net**.
 
 🚗 **Vehicle Registration Generator**  
@@ -43,10 +43,3 @@ An interactive quiz built using **HTML**, **CSS**, and **JavaScript** with dynam
 > “Still finding myself in this world, but making progress every day.”  
 
 ---
-
-🛠  Currently learning:
-- **React Native (Expo)** – building a mobile water outage app with my team
-- **Firebase Authentication & Firestore**
-- **PHP** – as part of my Internet Programming module
-  
-🎯 Goal: Build tools that solve practical challenges in South African communities

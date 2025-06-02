@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Sibonelo Faye
 
-<!--
-**sbonelo031fay/sbonelo031fay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year IT Student at Mangosuthu University of Technology  
+🧠 Visual learner | 💻 Developer | 🌍 Problem-solver through tech  
+🚀 Passionate about building real-world solutions with code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Languages: **Java**, **C#**, **Python**
+- Web Development: **HTML**, **CSS**, **JavaScript**
+- Mobile & Backend: **React Native (Expo)**, **Node.js**, **Firebase**
+- Databases: **MySQL**, **Firestore**
+- Tools: **VS Code**, **Git**, **GitHub**
+
+---
+
+## 📌 Highlight Projects
+
+🃏 **CardClash**  
+A Java-based card battle game using Object-Oriented Programming concepts.
+
+🧾 **BestBrightness POS**  
+A simple Point of Sale system developed with **C#** and Windows Forms.
+
+🚗 **Vehicle Registration Generator**  
+A browser-based tool using **HTML**, **CSS**, and **JavaScript** to generate vehicle registration numbers in South African format.
+
+📱 **Water Outage App** – *[Team Tech Nomads]*  
+A mobile app built with **React Native (Expo)** for managing water outage schedules, with chat, refill maps, and admin dashboards. Uses **Firebase** for backend services.
+
+🧠 **Quiz App**  
+An interactive quiz built using **HTML**, **CSS**, and **JavaScript** with dynamic question rendering and a countdown timer.
+
+---
+
+## 🌐 Contact Me
+
+📧 sibonelofaye031@gmail.com  
+
+
+> “Still finding myself in this world, but making progress every day.”  
+
+---
+
+🛠  Currently learning:
+- **React Native (Expo)** – building a mobile water outage app with my team
+- **Firebase Authentication & Firestore**
+- **PHP** – as part of my Internet Programming module
+  
+🎯 Goal: Build tools that solve practical challenges in South African communities

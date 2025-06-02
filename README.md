@@ -27,7 +27,8 @@ A simple Point of Sale system developed with **C#** and Windows Forms.
 A browser-based tool using **HTML**, **CSS**, and **JavaScript** to generate vehicle registration numbers in South African format.
 
 📱 **Water Outage App** – *[Team Tech Nomads]*  
-A mobile app built with **React Native (Expo)** for managing water outage schedules, with chat, refill maps, and admin dashboards. Uses **Firebase** for backend services.
+A mobile app **currently under development** using **React Native (Expo)**. It aims to help users track water outage schedules, locate nearby refill stations, chat with admins, and view updates. The app uses **Firebase** for authentication, database, and storage.
+
 
 🧠 **Quiz App**  
 An interactive quiz built using **HTML**, **CSS**, and **JavaScript** with dynamic question rendering and a countdown timer.

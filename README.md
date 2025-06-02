@@ -20,7 +20,8 @@
 🃏 **CardClash**  
 A Java-based card battle game using Object-Oriented Programming concepts.
 
-🧾 **[BestBrightness POS]:[https://github.com/sbonelo031fay/BestBrightnessApp]**  
+🧾 **[BestBrightness] [github]
+      [github] : https://github.com/sbonelo031fay/BestBrightnessApp
 A simple Point of Sale system developed with **C#** and **ASP.Net**.
 
 🚗 **Vehicle Registration Generator**  

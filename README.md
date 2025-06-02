@@ -20,8 +20,8 @@
 🃏 **CardClash**  
 A Java-based card battle game using Object-Oriented Programming concepts.
 
-🧾 **BestBrightness POS**  
-A simple Point of Sale system developed with **C#** and Windows Forms.
+🧾 **(BestBrightness POS)[https://github.com/sbonelo031fay/BestBrightnessApp]**  
+A simple Point of Sale system developed with **C#** and **ASP.Net**.
 
 🚗 **Vehicle Registration Generator**  
 A browser-based tool using **HTML**, **CSS**, and **JavaScript** to generate vehicle registration numbers in South African format.

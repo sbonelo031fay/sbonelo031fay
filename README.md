@@ -25,7 +25,7 @@ I am a proactive IT Graduate (NQF 6) specializing in **Software Development** an
 * **Tech:** C#, .NET, SQL Server
 * **Focus:** A tiered-architecture Point of Sale system designed for data integrity and efficient inventory management.
 
-#### 📱 [Water Outage App (Service Monitoring)](https://github.com/sbonelo031fay/Water-Outage-App)
+#### 📱 [Water Outage App (Service Monitoring)](https://github.com/akhonadlamini/Water-Outage-App)
 * **Tech:** React Native (Expo), Firebase
 * **Focus:** A real-time monitoring tool for community service tracking. Features authentication, live data updates, and administrative reporting.
 

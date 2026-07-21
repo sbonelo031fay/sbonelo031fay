@@ -1,4 +1,4 @@
-[github_readme_draft.md](https://github.com/user-attachments/files/30218155/github_readme_draft.md)
+
 # 👋 Hi, I'm Sibonelo Faye
 **Graduate Software & Technology Professional | Systems Development**
 📍 Durban, South Africa (Willing to relocate for the right opportunity)

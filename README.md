@@ -1,20 +1,20 @@
+[github_readme_draft.md](https://github.com/user-attachments/files/30218155/github_readme_draft.md)
 # 👋 Hi, I'm Sibonelo Faye
-
-**Graduate Software & Technology Professional | Systems Development & Data Analytics** 📍 Durban, South Africa (Willing to relocate to Johannesburg)  
+**Graduate Software & Technology Professional | Systems Development**
+📍 Durban, South Africa (Willing to relocate for the right opportunity)
 💼 Retail Systems Intern at **SPAR KZN Distribution Centre**
 
 ---
 
 ### 🚀 Professional Overview
-I am a proactive IT Graduate (NQF 6) specializing in **Software Development** and **Data Analytics**. Currently, I am embedded within a regional team of consultants at SPAR KZN, where I support enterprise-level retail systems and transform operational data into business insights. I am a **National Datathon Finalist** (DIRISA/IBM) and an **Absa Graduate Merit Award** recipient.
+I am a proactive IT Graduate (NQF 6) specializing in **Software Development**. Currently, I am embedded within a regional team of consultants at SPAR KZN, where I support enterprise-level retail systems and transform operational data into business insights. I am a **National Datathon Finalist** (DIRISA/IBM, 2024).
 
 ---
 
 ### 🛠 Tech Stack & Tools
-
 * **Languages:** C#, Java, Python (Pandas, Scikit-learn), SQL, TypeScript
 * **Web & Mobile:** React.js, React Native (Expo), HTML5, CSS3, JavaScript
-* **Data & Cloud:** Microsoft Power BI (PL-300 Candidate), Firebase, Microsoft Dynamics 365
+* **Data & Cloud:** Microsoft Power BI (PL-300 Candidate), Firebase
 * **DevOps & Tools:** Git, GitHub, Agile/Scrum, VS Code
 
 ---
@@ -25,9 +25,10 @@ I am a proactive IT Graduate (NQF 6) specializing in **Software Development** an
 * **Tech:** C#, .NET, SQL Server
 * **Focus:** A tiered-architecture Point of Sale system designed for data integrity and efficient inventory management.
 
-#### 📱 [Water Outage App (Service Monitoring)](https://github.com/AkhonaDlamini/RefillUmlazi) 
+#### 📱 Water Outage App (Service Monitoring)
 * **Tech:** React Native (Expo), Firebase
-* **Focus:** A real-time monitoring tool for community service tracking. Features authentication, live data updates, and administrative reporting.
+* **Focus:** A real-time monitoring tool for community service tracking, featuring authentication, live data updates, and administrative reporting.
+* **My role:** Collaborative project hosted under my teammate Akhona Dlamini's GitHub account. I focused mainly on the UI, while also contributing to other areas of the app as needed. Repo: [github.com/AkhonaDlamini/RefillUmlazi](https://github.com/AkhonaDlamini/RefillUmlazi)
 
 #### 🧠 [Machine Learning Analytics Pipeline](https://github.com/sbonelo031fay/OCTEXAM2024)
 * **Tech:** Python (Pandas, Scikit-learn)
@@ -48,6 +49,6 @@ I am a proactive IT Graduate (NQF 6) specializing in **Software Development** an
 
 ### 🌐 Connect with Me
 * 📧 **Email:** [sibonelofaye031@gmail.com](mailto:sibonelofaye031@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/sibonelo-faye-18039726b]
+* 💼 **LinkedIn:** [linkedin.com/in/sibonelo-faye-18039726b](https://linkedin.com/in/sibonelo-faye-18039726b)
 
 > *"Bridging the gap between technical system performance and real-world business value."*

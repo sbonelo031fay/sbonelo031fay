@@ -48,6 +48,6 @@ I am a proactive IT Graduate (NQF 6) specializing in **Software Development** an
 
 ### 🌐 Connect with Me
 * 📧 **Email:** [sibonelofaye031@gmail.com](mailto:sibonelofaye031@gmail.com)
-* 💼 **LinkedIn:** [Insert your LinkedIn Link here]
+* 💼 **LinkedIn:** [linkedin.com/in/sibonelo-faye-18039726b]
 
 > *"Bridging the gap between technical system performance and real-world business value."*
